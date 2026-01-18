@@ -81,6 +81,14 @@ const Portfolio = () => {
         ],
         items: [
           {
+            title: "Digital Dental World",
+            description:
+              "A comprehensive digital platform for the dental application, tailored to showcase specific industry projects.",
+            tech: ["React", "Web Development"],
+            category: "Web Development",
+            github: "https://github.com/ofarukgunay/digital-dental-world",
+          },
+          {
             title: "Blue Dreams (2D Platformer Game)",
             description:
               "A 2D platformer game built with Unity, featuring engaging gameplay and stunning visuals.",
@@ -188,6 +196,14 @@ const Portfolio = () => {
           "Oyun Geliştirme",
         ],
         items: [
+          {
+            title: "Digital Dental World",
+            description:
+              "Diş hekimliği dünyasına yönelik, sektörel projeleri sergilemek amacıyla geliştirilmiş kapsamlı bir dijital platform.",
+            tech: ["React", "Web Geliştirme"],
+            category: "Web Geliştirme",
+            github: "https://github.com/ofarukgunay/digital-dental-world",
+          },
           {
             title: "Blue Dreams (2D Platformer Oyunu)",
             description:
